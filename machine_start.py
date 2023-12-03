@@ -36,7 +36,7 @@ def get_dir_size(path='.'):
 
 
 def warn_alam():
-    sms.send_sms(1042914448)
+    sms.send_sms(119)
     print('119 신고')
 
     for x in range(5):
